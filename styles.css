@@ -1,0 +1,158 @@
+html {
+    height: 100%;
+}
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: white;
+    //margin: 0; we will use padding because padding is the the gap between using % because if we use 20px it wouldnt look good on every screen size like a phone, the gap would be too big because it would always be 20px but 20% is 20% of the screen size
+    font-size: 14px; //that would be the standard font size
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+#titulo {
+    position: fixed;
+    top: 0px;
+    left: 10px;
+    font-family: cursive;
+    font-size: 1.5em; //that means this will be 5x bigger than the standard font size so 5x14px
+}
+.images {
+    position: relative;
+    left: 100px;
+    margin: 8px;
+}
+.hpost {
+    position: absolute;
+    top: 230px;
+    left: 320px;
+}
+#hugopost {
+    position: absolute;
+    top: 214px;
+    left: 385px; 
+    font-size: 16px;
+}
+#hugolocation {
+    position: absolute;
+    top: 240px;
+    left: 385px; 
+    font-size: 13px;
+}
+#hugospic {
+    position: absolute;
+    top: 290px;
+    left: 322px;
+}
+.large-font{
+    font-size: 2em;
+  }
+  .top-20{
+    position:relative;
+    top: 640px;
+    left: 215px;
+  }
+  ion-icon{
+    fill:transparent;
+    stroke:black;
+    stroke-width:30;
+    transition:all 0.5s;
+  }
+#luisapost {
+    position: absolute;
+    top: 994px;
+    left: 385px; 
+    font-size: 16px;
+}
+#luisaspic {
+    position: absolute;
+    top: 1060px;
+    left: 322px;
+}
+.lpost {
+    position: absolute;
+    top: 1000px;
+    left: 320px;
+}
+.luisalarge-font{
+    font-size: 2em;
+  }
+.luisatop-20{
+    position:relative;
+    top: 1165px;
+    left: 215px;
+}
+.luisabook{
+    position:relative;
+    top: 1125px;
+    left: 680px;
+}
+.top-202{
+    position:relative;
+    top: 600px;
+    left: 680px;
+}
+.top-203{
+    position:relative;
+    top: 562px;
+    left: 260px;
+}
+.comments {
+    position:relative;
+    top: 558px;
+    left: 140px;  
+}
+.menubar {
+    position: fixed;
+    top: 55px;
+    left: 0px;  
+}
+.tenor-gif-embed {
+    position: fixed;
+    top: 1920px;
+    left: 370px; 
+}
+.sidebar {
+    position: fixed;
+    top: 50px;
+    left: 1000px;
+}
+.kellypost {
+    position: absolute;
+    top: 1750px;
+    left: 320px;
+}
+#kellypost {
+    position: absolute;
+    top: 1685px;
+    left: 385px; 
+    font-size: 16px;
+}
+.kpost {
+    position: absolute;
+    top: 1690px;
+    left: 320px;
+}
+.commentskelly {
+    position: absolute;
+    top: 2300px;
+    left: 250px; 
+}
+.kellybook{
+    position:relative;
+    top: 1737px;
+    left: 680px;
+}
+.kellytop-20 {
+    position:absolute;
+    top: 2260px;
+    left: 322px;
+}
+.top-207{
+    position:relative;
+    top: 1087px;
+    left: 259px;
+}
